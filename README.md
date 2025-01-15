@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am a mid-century, sorta modern kinda guy daning around the edges of coding, and trying to dip my toes in.
 <!--
 **ProductManglement/ProductManglement** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
